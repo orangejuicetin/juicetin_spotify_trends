@@ -1,3 +1,3 @@
-# Spotify! Trends!
+# Spotify Analysis ~ 
 
-Played around with my Spotify account and tried to practice some cool data visualization and also just see my music translated into some cool data :))
+Used the spotipy API to play around with one of my playlists! Feel free to look around and check stuff out ~ some kewl stuff in there 
